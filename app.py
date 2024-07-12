@@ -12,9 +12,6 @@ import requests
 from discord.ui import Button, View
 from database import update_report_count, get_report_count, connect_to_database
 import logging
-from pytube import YouTube
-from moviepy.editor import VideoFileClip, concatenate_videoclips
-from googletrans import Translator
 
 
 
