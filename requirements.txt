@@ -1,0 +1,9 @@
+discord.py
+aiohttp
+requests
+pytube
+moviepy
+googletrans 
+youtube_dl 
+tweepy 
+praw

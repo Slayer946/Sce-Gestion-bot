@@ -1,0 +1,3 @@
+ajouter une personne dans la balcklist = add_to_blacklist
+retirer une personne de la blacklist = remove_from_blacklist
+bypass la blacklist = bypass_blacklist
